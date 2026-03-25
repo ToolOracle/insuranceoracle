@@ -1,0 +1,1 @@
+{"name": "InsuranceOracle", "description": "Insurance & NatCat resilience \u2014 12 MCP tools for cyber insurance, NatCat exposure, DORA", "category": "compliance", "tags": ["insurance", "natcat", "cyber", "dora"], "tools": 12, "transport": "streamable-http", "endpoint": "https://tooloracle.io/insurance/mcp/"}

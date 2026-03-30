@@ -1,1 +1,8 @@
-{"name": "InsuranceOracle", "description": "Insurance & NatCat resilience \u2014 12 MCP tools for cyber insurance, NatCat exposure, DORA", "category": "compliance", "tags": ["insurance", "natcat", "cyber", "dora"], "tools": 12, "transport": "streamable-http", "endpoint": "https://tooloracle.io/insurance/mcp/"}
+{
+  "name": "insuranceOracle",
+  "description": "Insurance Intelligence \u2014 12 MCP tools for products, risk, NatCat",
+  "repository": "https://github.com/ToolOracle/insuranceoracle",
+  "endpoint": "https://tooloracle.io/insurance/mcp/",
+  "tools": 12,
+  "license": "MIT"
+}

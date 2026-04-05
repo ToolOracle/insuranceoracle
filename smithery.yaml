@@ -1,0 +1,5 @@
+name: InsuranceOracle
+description: Insurance resilience — NatCat, risk — 10 tools
+endpoint: https://tooloracle.io/insurance/mcp/
+transport: streamable-http
+license: MIT
